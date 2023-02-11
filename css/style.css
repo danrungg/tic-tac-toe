@@ -1,0 +1,16 @@
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	height: 200px;
+	width: 200px;
+}
+
+.grid-item {
+	background-color: crimson;
+	margin: 2px;
+	border: 1px solid black;
+}
+
+h1 {
+	color: blueviolet;
+}
